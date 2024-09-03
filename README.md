@@ -1,2 +1,2 @@
-Lab 2
-By: Sanchit Popli
+# Lab 2
+## By: Sanchit Popli
